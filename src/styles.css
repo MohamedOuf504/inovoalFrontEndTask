@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
+
+html ,
+body{
+    direction: rtl;
+    font-family: 'Tajawal', sans-serif;
+}
+.bg-purple{
+  background-color: #8d5da7;
+}
+.text-purple{
+  color: #8d5da7;
+}
+.bg-yellow{
+  color: #f9d050;
+}
+.text-yellow{
+  color: #f9d050;
+}
+.clickable{
+  cursor: pointer;
+}

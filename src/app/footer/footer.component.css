@@ -1,0 +1,19 @@
+.footer{
+  color: white;
+  padding: 30px;
+}
+
+.img-footer
+{
+  width: 50%;
+  height: 50%;
+}
+
+.footer-icon i{
+font-size: 1.5rem;
+padding: 15px;
+}
+.footer-last-icon {
+  padding: 20px;
+  font-size: 3rem;
+}
